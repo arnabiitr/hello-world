@@ -1,6 +1,6 @@
 # Project Hello World!
 + By: arnab bhar
-+ Production URL: <http://hello-world.dwa15-fall2018-arnab.me>
++ Production URL: <http://hello-world.dwa-fall2018-arnab.me>
 
 ## Outside resources
 n/a

@@ -3,7 +3,8 @@
 + Production URL: <http://hello-world.dwa-fall2018-arnab.me>
 
 ## Outside resources
-n/a
+I have used BootStrap CSS for very lightly layered formatting 
 
 ## Notes for instructor
-n/a
+Image of mine was taken as a selfie using my own iphone
+I have used a  php built in random number generator to power the quotes
